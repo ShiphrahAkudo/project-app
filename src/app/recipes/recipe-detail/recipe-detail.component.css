@@ -1,0 +1,19 @@
+h2 {
+    color: rgb(32, 165, 32);
+}
+
+#manageButton {
+    margin-bottom: 10px;
+}
+
+img {
+    margin-top: 19px;
+    border-radius: 80px;
+}
+
+#ingredHead {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 255, 0.829);
+    font-weight: bold;
+    margin-left: 40px;
+}
