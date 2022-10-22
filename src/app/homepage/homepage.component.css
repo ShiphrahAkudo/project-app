@@ -1,0 +1,33 @@
+* {
+    font-family: TakeawaySans, 'Segoe UI', sans-serif;
+}
+
+a {
+    color: rgb(15, 136, 15);
+    text-decoration: underline solid black;
+    margin: 2px 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    font-size: 21px;
+    transition: 7ms;
+    text-decoration: underline solid;
+}
+
+input #InputEmail {
+    height: 20px;
+}
+
+h1 {
+    color: rgb(255, 128, 0);
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 1.25;
+    margin: 10px 0px;
+    color: rgb(10, 56, 71)
+}
